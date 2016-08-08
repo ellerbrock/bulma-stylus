@@ -1,12 +1,10 @@
 # Bulma Stylus [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)  
 
-Stylus Version of the current Bulma Repository (Version 0.1.2)
+**Stylus Version of the current Bulma Repository (Version 0.1.2)**
 
-    Bulma Version: 0.1.2
-
-    GitHub Repository: <https://github.com/jgthms/bulma>
-
-    Website: <http://bulma.io/>
+- Bulma Version: 0.1.2
+- GitHub Repository: <https://github.com/jgthms/bulma>
+- Website: <http://bulma.io/>
     
 
 **bulma.styl:**
